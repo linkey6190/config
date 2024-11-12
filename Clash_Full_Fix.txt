@@ -1,5 +1,3 @@
-ruleset=☁️ 代理选择,[]DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-ruleset=☁️ 代理选择,[]DOMAIN-SUFFIX,services.googleapis.cn
 ruleset=☁️ 代理选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
